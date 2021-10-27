@@ -3,8 +3,7 @@ The dataset can be found https://www.kaggle.com/shuyangli94/food-com-recipes-and
 It was part of the food.com interactions and contain more than 700 recipes which will be used for this project.
 
 # The Goal
-The goal is to analyze the product and help the users to pick the most suitable recipe according to their needs.
-
+The goal is to analyze the product and help the users to pick the most suitable recipe according to their needs, including the names of the ingredients, their maximum number, maximum cooking time, and special tags, such as dietary, gluten-free,and so on. A possible solution may be presented using the above mentioned 4 parameters: https://eachabys.wixsite.com/kert 
 
 # The Analysis
 These two graphs represent preliminry analysis of the data.
