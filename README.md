@@ -9,3 +9,6 @@ The goal is to analyze the product and help the users to pick the most suitable 
 These two graphs represent preliminry analysis of the data.
 The first notebook time_quantity.ipynb includes an analysis of how much time it takes to cook any recipe. The graph shows how many meal recipes which can be cooked in 5, 10, 15, ... minutes. For ease, only the recipes f the meals which can be cooked in 2h or 120 minutes are considered. The cooking time is rounded to the nearest 5 minutes.
 The other notebook ingredients_quantity.ipynb includes an analysis of how many ingredients are used in a recipe. The resulting graph shows how many meal recipes  which contain only 2,3,4,... ingredients to cook a meal. Here, it seems that the most meals can be cooked with 10 variable ingredients. The data shows that the majority of recipes can be cooked with less than 20 ingredients.
+
+# Suggested Implementation
+To execute the goal it's planned to use the following technologies: Python (Jupyter notebook) for an initial analysis, PostgresSQL to run queries, the front-end might be depicted using Grafana and depending on the size of the db tables, they can be moved to cloud.
