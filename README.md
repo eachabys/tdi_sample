@@ -11,4 +11,4 @@ The first notebook time_quantity.ipynb includes an analysis of how much time it 
 The other notebook ingredients_quantity.ipynb includes an analysis of how many ingredients are used in a recipe. The resulting graph shows how many meal recipes  which contain only 2,3,4,... ingredients to cook a meal. Here, it seems that the most meals can be cooked with 10 variable ingredients. The data shows that the majority of recipes can be cooked with less than 20 ingredients.
 
 # Suggested Implementation
-To execute the goal it's planned to use the following technologies: Python (Jupyter notebook) for an initial analysis, PostgresSQL to run queries, the front-end might be depicted using Grafana and depending on the size of the db tables, they can be moved to cloud.
+To execute the goal it's planned to use the following technologies: Python (Jupyter notebook) for an initial analysis, PostgresSQL to run queries. Depending on the size of the db tables, they can be moved to cloud.
